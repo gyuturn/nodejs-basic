@@ -1,0 +1,6 @@
+<h2>This is dirty</h2>
+
+<script>
+alert('hi');
+</script>
+End.
